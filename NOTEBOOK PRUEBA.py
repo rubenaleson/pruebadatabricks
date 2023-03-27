@@ -10,4 +10,4 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC Nuevos cambios paa ver si funciona
+# MAGIC Nuevos cambios para ver si funciona
